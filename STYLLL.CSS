@@ -1,0 +1,21 @@
+BODY{
+    BACKGROUND-COLOR:WHITE;
+    text-align: center;
+    background-image:url("https://plus.unsplash.com/premium_photo-1682125773446-259ce64f9dd7?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZWR1Y2F0aW9uJTIwYmFja2dyb3VuZHxlbnwwfHwwfHx8MA%3D%3D&fm=jpg&q=60&w=3000") ;
+    font-family: Arial, , sans-serif;
+    backgroumd-size:cover;
+background-position:center;
+
+}
+H1{
+    background-color: black;
+    COLOR:rgb(202, 24, 24);
+}
+LI{
+    background-color: WHITE;
+    COLOR:ORANGE;
+    text-size:50PX;
+}
+a{
+    background-color: rgb(192, 123, 39);
+}
